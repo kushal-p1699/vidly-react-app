@@ -1,7 +1,12 @@
 import "./App.css";
+import Movies from "./components/movies";
 
 function App() {
-  return <h1>Hellow world</h1>;
+  return (
+    <>
+      <Movies />
+    </>
+  );
 }
 
 export default App;
