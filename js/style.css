@@ -1,0 +1,19 @@
+.main {
+  display: block;
+  margin: auto;
+  height: auto;
+}
+
+.doc_container {
+  margin-top: 10px;
+}
+
+#pdf-canvas {
+  width: 100%;
+  border: 2px solid blue;
+}
+
+#docs_container {
+  max-height: 650px;
+  overflow: auto;
+}
